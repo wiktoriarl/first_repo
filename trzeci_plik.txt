@@ -1,0 +1,13 @@
+Losowanie – czynność polegająca na wyciąganiu lub wybieraniu określonych liczb lub przedmiotów (los, karta, kupon, żeton itp.) w sposób wykluczający wpływ osoby losującej na wynik tej czynności.
+
+Przykładem losowania jest: rzut kością do gry, wyciąganie karty z talii.
+
+W rachunku prawdopodobieństwa losowanie jest formalizowane jako zmienna losowa o rozkładzie dyskretnym.
+
+W przypadku powtarzania losowania, można je wykonywać na dwa sposoby[1]:
+
+losowanie bez zwracania (bez powtórzeń, losowanie zależne) - raz wylosowany obiekt może być wylosowany co najwyżej raz Zmienne losowe opisujące poszczególne jednostkowe losowania są wówczas zależne.
+losowanie ze zwracaniem (z powtórzeniami, losowanie niezależne) - każdy obiekt może być wylosowany wiele razy. Zmienne losowe opisujące poszczególne jednostkowe losowania są wówczas niezależne.
+Losowanie jest w statystyce sposobem wykonywania doboru próby losowej.
+
+Losowanie jest popularną formą zestawiania drużyn w sporcie. Często losowanie bywa poprzedzone rozstawieniem drużyn
