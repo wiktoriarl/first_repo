@@ -1,4 +1,5 @@
 pierwsza linijka tresci
+to jest dopisana linijka
 uwaga na błędy
 oby nie padało
 co na obiad
